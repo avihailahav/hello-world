@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+
+Hi Humans!
+i love to eat humous to lunch, that make me think better!
